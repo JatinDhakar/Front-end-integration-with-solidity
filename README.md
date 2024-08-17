@@ -34,7 +34,7 @@ The index.js file provided in this repository serves as the frontend component o
 
 To use this smart contract, you need to have a Solidity development environment set up. You can download the code directly or clone the repository:
 ```
-git clone https://github.com/PreetJawla/Function-Frontened.git
+git clone https://github.com/JatinDhakar/Front-end-integration-with-solidity
 ```
 ### Executing program
 
@@ -49,13 +49,10 @@ After cloning the github, you will want to do the following to get the code runn
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
 
-## Help
-If you encounter any issues or have questions about using the smart contract, please contact [preetjawla6@gmial.com].
 
 ## Authors
 
-* Preet Jawla
-* [preetjawla6@gmail.com]
+Jatin Dhakar
 
 ## License
 
