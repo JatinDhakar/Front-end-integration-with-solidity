@@ -199,7 +199,7 @@ export default function HomePage() {
 
   const styles = {
     container: {
-      backgroundColor: 'aqua',
+      backgroundColor: 'green',
       borderRadius: '15px',
       padding: '20px',
       boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)',
@@ -228,7 +228,7 @@ export default function HomePage() {
       padding: '10px 20px',
       border: 'none',
       borderRadius: '5px',
-      backgroundColor: '#007bff',
+      backgroundColor: 'red',
       color: 'white',
       cursor: 'pointer',
     },
@@ -236,7 +236,7 @@ export default function HomePage() {
       textAlign: 'center',
       margin: '20px 0',
       borderRadius: '15px',
-      backgroundColor: 'aqua',
+      backgroundColor: 'green',
       width: '30%',
       margin: 'auto',
       marginTop: '10%',
