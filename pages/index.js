@@ -245,7 +245,7 @@ export default function HomePage() {
 
   return (
     <main style={styles.main}>
-      <header style={styles.header}><h1>Welcome to the Preet Store</h1></header>
+      <header style={styles.header}><h1>Welcome to the Jatin Store</h1></header>
         
       {initUser()}
     </main>
